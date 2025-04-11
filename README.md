@@ -1,7 +1,7 @@
 # ExplainableAI
 Here is the code for my final report for the course Explainable AI.
 
-#Breast Cancer Prediction and Explanation with SHAP and DiCE
+# Breast Cancer Prediction and Explanation with SHAP and DiCE
 This repository contains the implementation of a machine learning model that classifies breast cancer data as benign or malignant using a Random Forest classifier. The code also integrates SHAP (SHapley Additive exPlanations) for explaining the model’s predictions and DiCE (Diverse Counterfactual Explanations) for generating counterfactual explanations.
 
 # Installation steps
